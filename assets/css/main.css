@@ -1402,11 +1402,11 @@ ol {
 }
 
 .header .navbar .navbar-nav .nav-item a.active {
-  color: #a11717;
+  color: #dbf020;
 }
 
 .sticky .navbar .navbar-nav .nav-item a.active {
-  color: #a11717;
+  color: #dbf020;
 }
 
 .header .navbar .navbar-nav .nav-item .sub-menu a.active {
@@ -1481,7 +1481,7 @@ ol {
 }
 
 .header .toolbar-login .btn {
-  color: #a11717;
+  color: #dbf020;
   padding: 6px 20px;
   font-size: 13px;
   background-color: #fff;
@@ -1637,11 +1637,11 @@ ol {
 }
 
 .navbar-nav .nav-item a:hover {
-  color: #a11717;
+  color: #dbf020;
 }
 
 .navbar-nav .nav-item:hover a {
-  color: #a11717;
+  color: #dbf020;
 }
 
 .navbar-nav .nav-item a {
@@ -1680,7 +1680,7 @@ ol {
   -webkit-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
   z-index: 5;
-  border: 8px solid #a11717;
+  border: 8px solid #dbf020;
   border-radius: 0;
   border-bottom-color: transparent !important;
   width: auto !important;
@@ -2173,7 +2173,7 @@ ol {
   margin-bottom: 15px;
   display: inline-block;
   padding: 12px 22px;
-  background: #a11717 !important;
+  background: #dbf020 !important;
   text-transform: none;
   border-radius: 30px;
 }
@@ -2348,6 +2348,13 @@ ol {
 .text-center{
   margin-top: 20px;
   padding-bottom: 10px;
+  text-align: center;
+  position: relative;
+  left: -40px;
+}
+
+#Vision {
+  text-align: center;
 }
 
 .eye-center {
