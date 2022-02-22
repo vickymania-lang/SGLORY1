@@ -2145,11 +2145,11 @@ ol {
   z-index: 3;
   padding-bottom: 150px;
 }
-
+/*
 .hero-area .hero-inner.overlay::before {
   opacity: 0.9;
   background: #081828;
-}
+} */
 
 .hero-area .hero-image {
   margin-top: 90px;
@@ -2350,11 +2350,13 @@ ol {
   padding-bottom: 10px;
   text-align: center;
   position: relative;
-  left: -40px;
+  left: -65px;
 }
 
 #Vision {
   text-align: center;
+  position: relative;
+  left: -60px;
 }
 
 .eye-center {
